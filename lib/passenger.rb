@@ -1,5 +1,5 @@
 class Passenger
-
+    
     def initialize(name)
         @name = name
         @flight_numbers = []
@@ -20,7 +20,6 @@ class Passenger
 
 
     def add_flight(flight_number)
-
         if self.has_flight?(flight_number)
             return
         else

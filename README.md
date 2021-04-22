@@ -1,4 +1,4 @@
-# flight_project
+# Flight_project - App Academy 
 
 ## Flight Project
 Instructions: Run bundle exec rspec in your terminal. Your job is to implement the classes and their methods outlined by the RSpec output in the corresponding /lib files. We recommend you look into the /spec files to get additional clarity or hints on how to satisfy the spec. Below is a high-level overview of this project, but pay attention to RSpec especially.

@@ -8,9 +8,11 @@ class Flight
         @passengers = []
     end
 
+    
     def passengers
         @passengers
     end
+
 
     def full?
         if @passengers.length == @capacity
@@ -41,6 +43,5 @@ class Flight
     def <<(passenger)
         board_passenger(passenger)
     end
-
 
 end
